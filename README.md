@@ -11,8 +11,9 @@ Welcome to my PowerBI dashboard showcasing comprehensive insights into the perfo
 **Product Performance:** Analysis of top-selling items, including top 5 and top 10 items by quantity sold and revenue generated.
 **Yearly Sales Comparison:** Visual representation of total sales and orders by year, providing insights into business growth.
 **Screenshots:**
-![Online  Food Delivery Dashboard](https://github.com/DebashishKumarBora/Power-BI-Dashboard-on-Food-Delivery-Dashboard/assets/167493544/aa21ff4c-6d0e-4ad7-a3ef-39da8cc66958)
-![Online  Food Delivery Dashboard 1](https://github.com/DebashishKumarBora/Power-BI-Dashboard-on-Food-Delivery-Dashboard/assets/167493544/14f16574-3860-437d-8eee-ac1015184b83)
+![Screenshot (1025)](https://github.com/DebashishKumarBora/Power-BI-Dashboard-on-Food-Delivery-Dashboard/assets/167493544/43ace650-cae7-4a1b-860a-c806343a5d9b)
+![Screenshot (1024)](https://github.com/DebashishKumarBora/Power-BI-Dashboard-on-Food-Delivery-Dashboard/assets/167493544/9ee6e387-ed71-4593-8838-ee067517737e)
+![Screenshot (1023)](https://github.com/DebashishKumarBora/Power-BI-Dashboard-on-Food-Delivery-Dashboard/assets/167493544/f6cb1f17-c605-430c-9265-ef0b40d6b5f2)
 ![Online  Food Delivery Dashboard 2](https://github.com/DebashishKumarBora/Power-BI-Dashboard-on-Food-Delivery-Dashboard/assets/167493544/6f4ae800-7d70-4e78-af92-b628e95d5553)
 ![Online  Food Delivery Dashboard 3](https://github.com/DebashishKumarBora/Power-BI-Dashboard-on-Food-Delivery-Dashboard/assets/167493544/0007d62a-228d-45b6-9878-1fdfef12c8e9)
 
